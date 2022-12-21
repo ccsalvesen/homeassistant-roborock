@@ -13,5 +13,15 @@
       "no_device": "Ingen enhet funnet i din Roborock konto",
       "auth": "Innlogging feilet, sjekk brukernavn og passord"
     }
+  },
+  "options": {
+    "step": {
+      "user": {
+        "data": {
+          "camera": "Integrer kart som kamera",
+          "vacuum": "Integrer som støvsuger"
+        }
+      }
+    }
   }
 }
